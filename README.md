@@ -13,7 +13,7 @@ Run `./configure.sh` which will create python virtualenv in `.virtualenv`
 directory.
 
 
-## Using
+## Operate
 
 Example cron script:
 
@@ -37,7 +37,7 @@ Example cron script:
     )
 
 
-## Requirements
+## Precondition
 
 *  PyQt4
 *  python-virtualenv
